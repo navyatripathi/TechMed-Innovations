@@ -1,0 +1,43 @@
+Name,Specialty,Availability,User Rating
+Dr. John Doe,Fungal infection,Monday 10:00 AM - 4:00 PM,4.5
+Dr. Jane Smith,Allergy,Wednesday 9:00 AM - 1:00 PM,4.8
+Dr. Michael Johnson,Chronic cholestasis,Tuesday 11:00 AM - 3:00 PM,4.2
+Dr. Sarah Lee,Drug Reaction,Thursday 8:00 AM - 12:00 PM,4.7
+Dr. David Brown,continuous_sneezing,Monday 1:00 PM - 5:00 PM,4.3
+Dr. Emily Taylor,GERD,Wednesday 2:00 PM - 6:00 PM,4.6
+Dr. James Wilson,Diabetes,Thursday 10:00 AM - 2:00 PM,4.4
+Dr. Mary Johnson,Peptic ulcer disease,Monday 10:00 AM - 2:00 PM,4.5
+Dr. Jennifer Davis,AIDS,Wednesday 9:00 AM - 1:00 PM,4.8
+Dr. Joseph Anderson,Gastroenteritis,Tuesday 10:00 AM - 2:00 PM,4.2
+Dr. Linda Martinez,Bronchial Asthma,Thursday 8:00 AM - 12:00 PM,4.7
+Dr. Karen Jackson,Hypertension,Monday 1:00 PM - 5:00 PM,4.3
+Dr. Nancy Harris,Migraine,Wednesday 2:00 PM - 6:00 PM,4.6
+Dr. Patricia Clark,Cervical spondylosis,Thursday 10:00 AM - 2:00 PM,4.4
+Dr. Jessica White,Paralysis (brain hemorrhage),Monday 10:00 AM - 2:00 PM,4.5
+Dr. Thomas Young,Jaundice,Wednesday 9:00 AM - 1:00 PM,4.8
+Dr. Daniel King,Malaria,Tuesday 10:00 AM - 2:00 PM,4.2
+Dr. Lisa Rodriguez,Chicken pox,Thursday 8:00 AM - 12:00 PM,4.7
+Dr. Kevin Lewis,Dengue,Monday 1:00 PM - 5:00 PM,4.3
+Dr. Maria Walker,Typhoid,Wednesday 2:00 PM - 6:00 PM,4.6
+Dr. Susan Hall,hepatitis A,Thursday 10:00 AM - 2:00 PM,4.4
+Dr. Matthew Allen,Hepatitis B,Monday 10:00 AM - 2:00 PM,4.5
+Dr. Laura Young,Hepatitis C,Wednesday 9:00 AM - 1:00 PM,4.8
+Dr. Mark King,Hepatitis D,Tuesday 10:00 AM - 2:00 PM,4.2
+Dr. Sarah Rodriguez,Hepatitis E,Thursday 8:00 AM - 12:00 PM,4.7
+Dr. David Lewis,Alcoholic hepatitis,Monday 1:00 PM - 5:00 PM,4.3
+Dr. Jennifer Walker,Tuberculosis,Wednesday 2:00 PM - 6:00 PM,4.6
+Dr. Joseph Hall,Common Cold,Thursday 10:00 AM - 2:00 PM,4.4
+Dr. Linda Allen,Pneumonia,Monday 10:00 AM - 2:00 PM,4.5
+Dr. Karen Young,Dimorphic hemmorhoids(piles),Wednesday 9:00 AM - 1:00 PM,4.8
+Dr. Nancy King,Heart attack,Tuesday 10:00 AM - 2:00 PM,4.2
+Dr. Patricia Rodriguez,Varicose veins,Thursday 8:00 AM - 12:00 PM,4.7
+Dr. Jessica Lewis,Hypothyroidism,Monday 1:00 PM - 5:00 PM,4.3
+Dr. Maria Hall,Hyperthyroidism,Wednesday 2:00 PM - 6:00 PM,4.6
+Dr. Susan Young,Hypoglycemia,Thursday 10:00 AM - 2:00 PM,4.4
+Dr. Matthew King,Osteoarthristis,Monday 10:00 AM - 2:00 PM,4.5
+Dr. Laura Rodriguez,Arthritis,Wednesday 9:00 AM - 1:00 PM,4.8
+Dr. Mark Lewis,(vertigo) Paroymsal Positional Vertigo,Tuesday 10:00 AM - 2:00 PM,4.2
+Dr. Sarah Hall,Acne,Thursday 8:00 AM - 12:00 PM,4.7
+Dr. David Young,Urinary tract infection,Monday 1:00 PM - 5:00 PM,4.3
+Dr. Jennifer Rodriguez,Psoriasis,Wednesday 2:00 PM - 6:00 PM,4.6
+Dr. Joseph Lewis,Impetigo,Thursday 10:00 AM - 2:00 PM,4.4

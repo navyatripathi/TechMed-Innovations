@@ -1,5 +1,7 @@
 Proposed this work for the Google Girl Hackathon 2024 . 
 
+This is a disease prediction ML project is which we have done 
+
 
 # TechMed Innovations
 Welcome to our cutting-edge Personalized Web Application, TechMed Innovations : AI for a healthier tomorrow.

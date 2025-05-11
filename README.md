@@ -1,6 +1,6 @@
 Proposed this work for the Google Girl Hackathon 2024 . 
 
-This is a disease prediction ML project is which we have done the integration   
+This is a disease prediction ML project is which we have done the integration of Artificial Intelligence .
 
 
 # TechMed Innovations

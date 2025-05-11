@@ -1,3 +1,6 @@
+Proposed this work for the Google Girl Hackathon 2024 . 
+
+
 # TechMed Innovations
 Welcome to our cutting-edge Personalized Web Application, TechMed Innovations : AI for a healthier tomorrow.
 Introducing a robust platform meticulously crafted to empower users in comprehending and navigating their health journey. Harnessing the prowess of machine learning, our innovative system meticulously dissects user-provided symptoms to forecast potential diseases with unparalleled precision. Here lies the essence of our system's distinction. 
